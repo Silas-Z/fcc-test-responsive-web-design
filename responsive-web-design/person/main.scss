@@ -53,7 +53,7 @@ h1, p, body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 72px;
+    // margin-top: 72px; //检查代码不允许加上减去navbar的高度
     height: 100vh;
     background: black;
     H1{

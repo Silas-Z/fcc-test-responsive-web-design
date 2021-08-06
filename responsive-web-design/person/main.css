@@ -77,7 +77,6 @@ h1, p, body {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: 72px;
   height: 100vh;
   background: black;
 }
